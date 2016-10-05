@@ -1,5 +1,7 @@
 # MatroskaSharp
 
+[![Build status](https://ci.appveyor.com/api/projects/status/aln1yev5fxq8h758?svg=true)](https://ci.appveyor.com/project/albertofustinoni/matroskasharp)
+
 A refactoring and adaptation to PCL of [Olegzee's NEBml](https://github.com/OlegZee/NEbml)
 
 ## Supported platforms
